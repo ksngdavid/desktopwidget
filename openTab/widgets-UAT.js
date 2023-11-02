@@ -50,9 +50,9 @@
 
         render() {
 
-            if (this.widgetName == "recordings") {
+            if (this.widgetName == "GVsetting") {
                 const t = document.createElement("template");
-                window.open("https://myapps.microsoft.com/signin/e7b36fd2-9213-4e3f-987f-c6226cc6908a?tenantId=d4b11752-526c-4566-8abd-b564a411f75f", '_blank').focus();
+                window.open("https://agile-ravine-37655-b1aaf33a1a5d.herokuapp.com", '_blank').focus();
             }
         }
 
