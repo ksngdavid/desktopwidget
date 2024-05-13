@@ -52,7 +52,7 @@
 
             if (this.widgetName == "GVsetting") {
                 const t = document.createElement("template");
-                window.open("http://http://13.215.193.55:4000", '_blank').focus();
+                window.open("http://13.215.193.55:4000", '_blank').focus();
             }
         }
 
