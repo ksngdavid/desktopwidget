@@ -52,7 +52,7 @@
 
             if (this.widgetName == "GVsetting") {
                 const t = document.createElement("template");
-                window.open("https://agile-ravine-37655-b1aaf33a1a5d.herokuapp.com", '_blank').focus();
+                window.open("http://http://13.215.193.55:4000", '_blank').focus();
             }
         }
 
